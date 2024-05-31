@@ -9,8 +9,6 @@ Hello World, this is my profile
 
 - 📫 How to reach me **mansipatil18113@gmail.com**
 
-- ⚡ Fun fact **I am Lazy but Smart**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/mansi-patil-288795269/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mansi-patil-288795269?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base%3b0aoxupostacdyhuxycnpdq%3d%3d" height="30" width="40" /></a>
