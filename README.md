@@ -1,6 +1,6 @@
 ## Hi there 👋
 Hello World, this is my profile
-<h1 align="center">Hi 👋, I'm Mansi Patil</h1>
+<h1 align="center"> I'm Mansi Patil</h1>
 <h3 align="center">A passionate Web Developer from India</h3>
 
 - 🔭 I’m currently working on **Online Voting System**
