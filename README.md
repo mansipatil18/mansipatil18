@@ -1,5 +1,4 @@
 ## Hi there 👋
-# mansee
 Hello World, this is my profile
 <h1 align="center">Hi 👋, I'm Mansi Patil</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
